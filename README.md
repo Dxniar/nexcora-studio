@@ -125,7 +125,3 @@ assets/branding/ Vector brand assets
 ```
 
 The current application starts with `python -m nexcora_studio`; the current bot with `python -m nexcora_studio.bot`. The earlier `orderbot` entry point is retained for historical compatibility and is not the current Mini App backend.
-
-## Development context
-
-This is a personal portfolio project developed with AI/Codex assistance. It demonstrates implemented workflows and technical decisions; commercial customers, revenue and client deployments are not claimed. See the [portfolio case study](PORTFOLIO.md) for the scope and evidence boundaries.
