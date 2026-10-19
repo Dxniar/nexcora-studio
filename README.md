@@ -1,12 +1,14 @@
 # Nexcora Studio
 
+[![Checks](https://github.com/Dxniar/nexcora-studio/actions/workflows/checks.yml/badge.svg)](https://github.com/Dxniar/nexcora-studio/actions/workflows/checks.yml)
+
 A Telegram Mini App for managing freelance projects from the first request to final acceptance.
 
 Clients submit a brief, agree on a versioned proposal and follow delivery. The owner manages a shared project queue, publishes updates and handles revisions. A Telegram bot opens the workspace and delivers project notifications.
 
 [Open the Telegram demo](https://t.me/nexcora_bot) · [Portfolio case study](PORTFOLIO.md) · [Local setup](docs/development.md) · [Deployment guide](docs/deployment.md)
 
-The current multilingual release is being verified, so the hosted demo may lag the source.
+The hosted demo includes the English, Russian and Kazakh interfaces.
 
 ## Interface
 

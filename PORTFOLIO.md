@@ -10,7 +10,7 @@ Nexcora Studio combines a Telegram bot with a responsive Mini App. A client can 
 
 After agreement, the owner starts work, adds updates and submits a result. The client accepts it or requests a revision with a comment. Project history records the workflow. Personal and owner views have distinct navigation, with permissions enforced by the API.
 
-Russian, English and Kazakh language selection is shared between the bot and Mini App. User-written briefs and documents retain their original content. Localization is included in the source; its release verification is in progress.
+Russian, English and Kazakh language selection is shared between the bot and Mini App. User-written briefs and documents retain their original content. The multilingual web service and bot are deployed on Railway.
 
 ## Technical decisions and their purpose
 
