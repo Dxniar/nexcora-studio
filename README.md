@@ -115,7 +115,7 @@ The hosted demo uses Railway for the web service, bot, PostgreSQL and private bu
 ## Repository map
 
 ```text
-nexcora_studio/   API, services, bot and background workers
+nexcora_studio/  API, services, bot and background workers
 web/             React interface and browser tests
 migrations/      Alembic database migrations
 tests/           Offline and PostgreSQL integration tests
